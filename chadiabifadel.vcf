@@ -1,0 +1,23 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Abi Fadel;Chadi;;;
+FN:Chadi Abi Fadel
+ORG:peaklight.ai (PLAI)
+ADR;TYPE=WORK:
+TITLE:Founder, CTO
+TEL;TYPE=CELL:
+TEL;TYPE=WORK:+96171203320
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:chadi@peaklight.ai
+URL;TYPE=Digital Business Card:
+URL:peaklight.ai
+URL;TYPE=Calendar:https://calendar.app.google/rUhJPC37KdxYjAuN6
+URL;TYPE=WhatsApp:https://wa.me/61414760707
+URL;TYPE=Website:peaklight.ai
+URL;TYPE=LinkedIn:https://linkedin.com/in/chadi-abifadel/
+URL;TYPE=Medium:https://peaklightai.medium.com/
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:Your AI Supercharger
+UID:EnBizCard-100318008
+END:VCARD
